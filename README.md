@@ -1,7 +1,5 @@
 # Network-Resilience-Simulation
 Investigating the ability of a network to stay connected when individual nodes fail.
-# Network Resilience Simulation
-
 ## Overview
 
 Using Python and NetworkX, I created three types of networks: a chain, a cycle, and a mesh-like network. Then simulated individual node failures to observe how each structure responds.
